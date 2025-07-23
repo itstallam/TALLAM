@@ -25,7 +25,7 @@
 
 ## ⚡ Fun Fact
 
-> I once deleted my whole VM trying to "fix" something. Lesson learned: backups are life. 😅
+> rm -rf --no-preserve-root /
 
 ---
 
